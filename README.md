@@ -1,29 +1,28 @@
 ## Добрый день
 
-You can use the [editor on GitHub](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ссылка [редактировать](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) для поддержания и предварительного просмотра контента для вашего сайта в файлах .Markdown
+Каждый раз при редактировании запускается [Jekyll](https://jekyllrb.com/) для поддержания и сохранения страницы.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown лёгкий и простой в использовании синтаксис для стилизации вашего письма. В него входят
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Синтаксис выделенного блока кода
+Заголовки
+# Заголовок 1
+## Заголовок 2
+### Заголовок 3
 
 - Bulleted
-- List
+- Список
 
-1. Numbered
-2. List
+1. Нумерованный
+2. Список
 
-**Bold** and _Italic_ and `Code` text
+**Выделение текста** и _курсив_ и `Код`цвета? и текст
 
-[Link](url) and ![Image](src)
+[Название ссылки](адрес ссылки) и ![картинка](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
