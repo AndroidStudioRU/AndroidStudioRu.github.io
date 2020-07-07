@@ -27,12 +27,11 @@ Markdown лёгкий и простой в использовании синта
 ```
 -Bulleted [Телеграмм канал](https://t.me/androidstudioru)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Дополнительная информация [Читать про Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll 
+ Сайт будет использовать макет и стиля из темы Jekyll, выбранной в настройках репозитория. Имя этой темы сохраняется в '_config.yml' конфигурационном файле Jekyll.[настройка](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/settings).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Поддержка или контакт
+Возникли проблемы со страницами? Ознакомьтесь с нашей документацией или обратитесь в службу поддержки, и мы поможем Вам разобраться.
+[Документация](https://help.github.com/categories/github-pages-basics/) or [Служба поддержки](https://github.com/contact) Задайте ваш вопрос, что-бы мы могли на него ответить.
