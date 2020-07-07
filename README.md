@@ -1,5 +1,4 @@
-```javascript
-## Добрый день
+# Добрый день
 
 Ссылка для [редактирования](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) поддержка и предварительного просмотр контента для сайта в файлах Markdown.
 Каждый раз при редактировании запускается [Jekyll](https://jekyllrb.com/) для поддержания и сохранения страницы.
@@ -25,7 +24,7 @@ Markdown лёгкий и простой в использовании синта
 
 [Название ссылки](адрес ссылки) и ![картинка](src)
 ```
--Bulleted [Телеграмм канал](https://t.me/androidstudioru)
+# [Телеграмм канал](https://t.me/androidstudioru)
 
 Дополнительная информация [Читать про Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -35,3 +34,4 @@ Markdown лёгкий и простой в использовании синта
 ### Поддержка или контакт
 Возникли проблемы со страницами? Ознакомьтесь с нашей документацией или обратитесь в службу поддержки, и мы поможем Вам разобраться.
 [Документация](https://help.github.com/categories/github-pages-basics/) or [Служба поддержки](https://github.com/contact) Задайте ваш вопрос, что-бы мы могли на него ответить.
+```javascript
