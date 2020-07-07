@@ -1,6 +1,6 @@
 ## Добрый день
 
-Ссылка [редактировать](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) для поддержания и предварительного просмотра контента для вашего сайта в файлах .Markdown
+Ссылка для [редактирования](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) поддержка и предварительного просмотр контента для сайта в файлах Markdown.
 Каждый раз при редактировании запускается [Jekyll](https://jekyllrb.com/) для поддержания и сохранения страницы.
 
 ### Markdown
@@ -24,6 +24,7 @@ Markdown лёгкий и простой в использовании синта
 
 [Название ссылки](адрес ссылки) и ![картинка](src)
 ```
+Bulleted [Телеграмм канал](https://t.me/androidstudioru)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
