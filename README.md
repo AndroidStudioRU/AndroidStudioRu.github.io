@@ -1,3 +1,4 @@
+```javascript
 ## Добрый день
 
 Ссылка для [редактирования](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) поддержка и предварительного просмотр контента для сайта в файлах Markdown.
@@ -20,11 +21,11 @@ Markdown лёгкий и простой в использовании синта
 1. Нумерованный
 2. Список
 
-**Выделение текста** и _курсив_ и `Код`цвета? и текст
+**Выделение текста** и _курсив_ и `Код` {несколько строк} и текст
 
 [Название ссылки](адрес ссылки) и ![картинка](src)
 ```
-Bulleted [Телеграмм канал](https://t.me/androidstudioru)
+-Bulleted [Телеграмм канал](https://t.me/androidstudioru)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
