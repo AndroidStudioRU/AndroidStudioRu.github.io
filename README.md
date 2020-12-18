@@ -3,6 +3,7 @@
 Ссылка для [редактирования](https://github.com/AndroidStudioRU/AndroidStudioRu.github.io/edit/master/README.md) поддержка и предварительного просмотр контента для сайта в файлах Markdown.
 Каждый раз при редактировании запускается [Jekyll](https://jekyllrb.com/) для поддержания и сохранения страницы.
 
+
 ### Markdown
 
 Markdown лёгкий и простой в использовании синтаксис для стилизации вашего письма. В него входят
